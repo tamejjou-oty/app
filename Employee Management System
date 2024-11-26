@@ -1,0 +1,44 @@
+# Employee Management System
+
+## Description
+This Employee Management System is a web application that allows administrators to manage employee information and tasks. Employees can log in, view their tasks, mark them as completed, and add notes. Administrators can add new employees, view all employees and their tasks, and edit or delete tasks.
+
+## Features
+- **Employee Login:** Secure login for employees and administrators.
+- **Admin Section:** Allows administrators to add new employees and view all employees' information.
+- **Task Management:** Employees can view their tasks, mark them as completed, and add notes. Administrators can edit or delete tasks.
+- **Responsive Design:** User-friendly interface with a responsive design that works on all devices.
+
+## Installation
+To get the Employee Management System up and running on your local machine, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/employee-management-system.git
+    cd employee-management-system
+    ```
+
+2. **Open the `index.html` file in your browser to view the application.**
+
+## Usage
+1. Open the `index.html` file in a web browser.
+2. Log in as an employee or administrator by entering the respective name.
+3. **Employee Functionality:**
+   - View and manage your tasks.
+   - Mark tasks as completed.
+   - Add and edit notes for tasks.
+4. **Admin Functionality:**
+   - Add new employees.
+   - View all employees and their tasks.
+   - Edit or delete tasks for any employee.
+
+## Files
+- `index.html`: The main HTML file for the application.
+- `style.css`: The CSS file for styling the application.
+- `script.js`: The JavaScript file for handling the application logic.
+  
+## Contributing
+Contributions are welcome! Feel free to submit a pull request or open an issue to discuss any changes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
